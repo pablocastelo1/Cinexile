@@ -1,6 +1,6 @@
 # Cinexile
 
-### OBS: esse repositório não receberá mais atualizações pois para dar continuidade o projeto será refeito futuramente!
+### OBS: esse repositório não receberá mais atualizações
 
 <p>O Cinexile a princípio é um projeto simples criado com base nos conhecimentos adquiridos através da NLW OriginSix da Rocketseat.</p> 
 
